@@ -4,7 +4,8 @@
 ## Description
  This is an app where the user will be able to add expenses and deposits to their budget with or without a connection. 
  
-  Click the below GIF to go to Youtube to view the full sized video of functionality.
+  ## Click the below GIF to go to Youtube to view the full sized video of functionality.
+  
  [![Gif of Progressive Budget Functionality](./public/assets/BudgetTracker.gif)](https://youtu.be/-b5uc5WcB7s/link "Link to full sized video")
 
  ## App is deployed on Heroku
